@@ -1,0 +1,13 @@
+From PC1:
+
+ping 172.16.1.100
+
+Expected:
+SUCCESS
+
+Open Web Browser:
+
+http://172.16.1.100
+
+Expected:
+FAIL

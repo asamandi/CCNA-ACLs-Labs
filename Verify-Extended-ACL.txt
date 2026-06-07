@@ -1,0 +1,2 @@
+show access-lists
+show ip interface g0/1
